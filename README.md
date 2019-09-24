@@ -8,3 +8,7 @@ How to use this?
 4. remember to call Ringbuf_init before writing to the buffer.
 5. ???
 6. profit
+
+
+For more information, have a look at the instruction video here: 
+https://www.youtube.com/watch?v=6a_VNVWbYvU
